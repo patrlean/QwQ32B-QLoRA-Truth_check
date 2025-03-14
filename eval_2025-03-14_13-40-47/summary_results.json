@@ -2916,5 +2916,46 @@
             "E"
         ],
         "rank": 0
+    },
+    {
+        "question id": 753,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 754,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
     }
 ]
