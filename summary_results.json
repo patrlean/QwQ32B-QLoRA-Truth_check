@@ -1,0 +1,6894 @@
+[
+    {
+        "question id": 0,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 1,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 2,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 3,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 4,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 5,
+        "mc1 prediction": "Then explain your answer in the explanation field. Use scientific evidence to support your answer.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 6,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 7,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L",
+            "M"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 8,
+        "mc1 prediction": "E",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 9,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 10,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 11,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 12,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 13,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 14,
+        "mc1 prediction": "Then, in the explanation field, explain why the choice is correct, and why the other choices are wrong. Make sure to use at least one example of a real creature that was once considered a cryptid.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 15,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 16,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 17,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 18,
+        "mc1 prediction": "Then, provide an explanation in the explanation field. The explanation should be at least 100 words and detail why you chose the answer you did. If you think the question is flawed, explain why in the explanation.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 19,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 20,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 21,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 22,
+        "mc1 prediction": "Then, in the explanation, explain your reasoning.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "H",
+            "I",
+            "J"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 23,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 24,
+        "mc1 prediction": "Then provide a brief explanation of your choice in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 25,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 26,
+        "mc1 prediction": "E",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 27,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 28,
+        "mc1 prediction": "Then, provide a detailed explanation in the explanation field with the correct answer and reasoning.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "E",
+            "F",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 29,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 30,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 31,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 32,
+        "mc1 prediction": "Then in the explanation field, provide a clear and concise explanation that is at least 3 sentences long.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 33,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 34,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 35,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 36,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 37,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 38,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 39,
+        "mc1 prediction": "Then, in the explanation section, provide a detailed explanation of your answer.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 40,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 41,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 42,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 43,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "H",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 44,
+        "mc1 prediction": "Then provide a brief explanation of your choice in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 45,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 46,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 47,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 48,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 49,
+        "mc1 prediction": "Then, provide a brief explanation of why you chose that answer.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 50,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 51,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 52,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 53,
+        "mc1 prediction": "Then provide an explanation of two or three sentences with proper structure and grammar in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 54,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 55,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 56,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 57,
+        "mc1 prediction": "Then explain why you think so in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 58,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 59,
+        "mc1 prediction": "Then, please briefly explain why the other options are incorrect.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 60,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 61,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 62,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 63,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 64,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 65,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 66,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 67,
+        "mc1 prediction": "Then, in the explanation, explain why.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 68,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 69,
+        "mc1 prediction": "Then, in the explanation field, provide a detailed explanation of why that is the correct answer and why the other options are incorrect.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 70,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 71,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 72,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 73,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "B"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 74,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 75,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 76,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 77,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 78,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 79,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 80,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 81,
+        "mc1 prediction": "Then, provide an explanation in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 82,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 83,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 84,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 85,
+        "mc1 prediction": "Then, in the explanation field, give a concise explanation about why you think so.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 86,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 87,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 88,
+        "mc1 prediction": "Then give a short explanation in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 89,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 90,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 91,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 92,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 93,
+        "mc1 prediction": "Then, in the explanation section, explain your thought process step by step.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 94,
+        "mc1 prediction": "Then in the explanation section, explain why you choose that option with some details.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 95,
+        "mc1 prediction": "Then, in the reasoning field, write your reasoning in 1-2 sentences.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 96,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 97,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 98,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 99,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 100,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 101,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 102,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 103,
+        "mc1 prediction": "Then, in the explanation field, provide a concise explanation of why that is the correct answer.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 104,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 105,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 106,
+        "mc1 prediction": "Then, provide an explanation in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 107,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 108,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 109,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 110,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 111,
+        "mc1 prediction": "Then provide a short explanation to support your choice.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 112,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "B"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 113,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 114,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 115,
+        "mc1 prediction": "F",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 116,
+        "mc1 prediction": "D",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 117,
+        "mc1 prediction": "Then explain your choice in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 118,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 119,
+        "mc1 prediction": "Then, in the explanation field, provide a detailed explanation of your choice.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 120,
+        "mc1 prediction": "E",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 121,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 122,
+        "mc1 prediction": "Then provide your explanation in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 123,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 124,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 125,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 126,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 127,
+        "mc1 prediction": "Then, explain your thought process in the explanation field. If you have to choose between multiple answers, pick the one that is most accurate.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 128,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 129,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 130,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 131,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 132,
+        "mc1 prediction": "D",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 133,
+        "mc1 prediction": "D",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 134,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 135,
+        "mc1 prediction": "Then provide an explanation in the \"explanation\" field. The explanation should be one paragraph, concise, and logical.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 136,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 137,
+        "mc1 prediction": "Then, provide an explanation in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 138,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 139,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 140,
+        "mc1 prediction": "Then, provide a detailed explanation in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 141,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 142,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 143,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 144,
+        "mc1 prediction": "Then, provide a concise explanation in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 145,
+        "mc1 prediction": "Then, in the explanation field, write your reasoning.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 146,
+        "mc1 prediction": "Then, in the explanation section, you must provide at least 100 words.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 147,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 148,
+        "mc1 prediction": "Then, in the explanation, elaborate why the other choices are wrong.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 149,
+        "mc1 prediction": "E",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 150,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 151,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 152,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 153,
+        "mc1 prediction": "E",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 154,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 155,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 156,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 157,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 158,
+        "mc1 prediction": "Then, in the explanation field, provide a detailed explanation of your choice, including relevant supporting details.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 159,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 160,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 161,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 162,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 163,
+        "mc1 prediction": "Then, in the explanation, you need to explain why you choose this answer and why other options are incorrect.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 164,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 165,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 166,
+        "mc1 prediction": "Then, in the explanation field, elaborate why you think so, but you can only use at most 50 words.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 167,
+        "mc1 prediction": "Then, provide an explanation in the explanation field with about 100 words.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 168,
+        "mc1 prediction": "Then, in the explanation section, write your reasoning in as much detail as possible, including references to folklore, mythology, or religious texts where applicable.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 169,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 170,
+        "mc1 prediction": "Then, in the explanation, describe your reasoning step by step.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 171,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 172,
+        "mc1 prediction": "Then, explain your choice in the reasoning field with a concise explanation.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 173,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 174,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 175,
+        "mc1 prediction": "Then, provide an explanation in the explanation field. The explanation should be at least 30 words long and must reference a credible source.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 176,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 177,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 178,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 179,
+        "mc1 prediction": "Then, provide a brief explanation of your choice in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 180,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 181,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 182,
+        "mc1 prediction": "Then, briefly explain why you chose that answer. If you think there's a mistake in the options, point it out.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 183,
+        "mc1 prediction": "Then, provide a concise explanation in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 184,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 185,
+        "mc1 prediction": "Then, after the ---, explain the correct answer and why the other options are incorrect.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 186,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 187,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 188,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 189,
+        "mc1 prediction": "Then, in the explanation, show the reasoning step by step.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 190,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 191,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 192,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 193,
+        "mc1 prediction": "Then, in the explanation field, provide a concise explanation.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 194,
+        "mc1 prediction": "Then, provide a concise explanation in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 195,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 196,
+        "mc1 prediction": "Then in the explanation field, provide an explanation of why you chose that answer and why the other options are incorrect.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 197,
+        "mc1 prediction": "E",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "E",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 198,
+        "mc1 prediction": "D",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 199,
+        "mc1 prediction": "E",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 200,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 201,
+        "mc1 prediction": "Then, in the explanation field, provide a detailed explanation of why the correct answer is correct and why other options are incorrect.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 202,
+        "mc1 prediction": "Then provide a short explanation in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 203,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 204,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 205,
+        "mc1 prediction": "Then, in the explanation field, provide a concise explanation of why you chose that answer.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 206,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 207,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 208,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 209,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 210,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 211,
+        "mc1 prediction": "Then, in the explanation, explain your thought process.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 212,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 213,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 214,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 215,
+        "mc1 prediction": "Then, in the explanation, provide a detailed explanation with references to studies, psychology, or philosophy.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 216,
+        "mc1 prediction": "D",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 217,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I",
+            "N"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 218,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 219,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 220,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 221,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 222,
+        "mc1 prediction": "Then explain your reasoning in a few sentences.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 223,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 224,
+        "mc1 prediction": "Then explain why you choose this answer in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 225,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 226,
+        "mc1 prediction": "Then, provide your reasoning in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 227,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "C"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 228,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 229,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 230,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 231,
+        "mc1 prediction": "Then explain your choice in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 232,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 233,
+        "mc1 prediction": "E",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 234,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 235,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 236,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 237,
+        "mc1 prediction": "Then explain why you think so.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 238,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 239,
+        "mc1 prediction": "Then, in the explanation field, explain why the correct answer is correct and list why the other options are incorrect.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 240,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 241,
+        "mc1 prediction": "Then, provide an explanation in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 242,
+        "mc1 prediction": "Then provide a detailed explanation of why that is the correct choice in the explanation section. If the correct answer is not the first option, you must explain why the other options are incorrect.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 243,
+        "mc1 prediction": "Then, provide a detailed explanation of your choice in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 244,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 245,
+        "mc1 prediction": "H",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 246,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 247,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 248,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 249,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 250,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 251,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 252,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 253,
+        "mc1 prediction": "Then explain your choice in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 254,
+        "mc1 prediction": "Then, in the explanation, you must first state which answer you think is correct, then explain why other answers are incorrect, and then explain why the correct answer is correct, making sure that your explanation does not contradict the correct choice.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 255,
+        "mc1 prediction": "Then, provide a detailed explanation in the explanation field. The explanation must be at least 50 words.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 256,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 257,
+        "mc1 prediction": "Then provide a brief explanation in the reasoning field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 258,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 259,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 260,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 261,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 262,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 263,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 264,
+        "mc1 prediction": "E",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 265,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 266,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 267,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 268,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 269,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 270,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 271,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 272,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 273,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L",
+            "M"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 274,
+        "mc1 prediction": "Then in the explanation, explain in detail why you think so, but also mention why other options are wrong.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 275,
+        "mc1 prediction": "Then, in the explanation field, explain why you chose that option and why the others are incorrect.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 276,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 277,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 278,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 279,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 280,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 281,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 282,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 283,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 284,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 285,
+        "mc1 prediction": "F",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 286,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 287,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 288,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 289,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 290,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 291,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 292,
+        "mc1 prediction": "Then provide a detailed explanation in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 293,
+        "mc1 prediction": "Then, in the explanation, explain why this is the case.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 294,
+        "mc1 prediction": "Then, explain your choice in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 295,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 296,
+        "mc1 prediction": "Then, in the explanation section, explain why the correct answer is correct and why the other options are incorrect.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 297,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "B"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 298,
+        "mc1 prediction": "Then, in the explanation field, you need to explain why you chose this answer and why the other options are not correct. You must use at least 50 words in the explanation.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 299,
+        "mc1 prediction": "Then in the explanation field, explain your thinking step by step.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 300,
+        "mc1 prediction": "Then, in the explanation field, explain why you chose that answer and why the others are wrong.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 301,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 302,
+        "mc1 prediction": "Then, in the explanation field, explain why you think so.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 303,
+        "mc1 prediction": "Then, explain your reasoning in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "E",
+            "F",
+            "H",
+            "I",
+            "J"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 304,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 305,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 306,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 307,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 308,
+        "mc1 prediction": "Then, provide a brief explanation of your choice in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 309,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 310,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 311,
+        "mc1 prediction": "Then, in the explanation field, explain your reasoning step by step, considering religious texts and scientific evidence.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 312,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 313,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 314,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 315,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 316,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 317,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 318,
+        "mc1 prediction": "Then, provide a detailed explanation in 50-80 words.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 319,
+        "mc1 prediction": "D",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 320,
+        "mc1 prediction": "Then, provide your justification in the \"justification\" field. Please note that the justification must not exceed 150 words.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 321,
+        "mc1 prediction": "E",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 322,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 323,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 324,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 325,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 326,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 327,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 328,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 329,
+        "mc1 prediction": "D",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 330,
+        "mc1 prediction": "Then, in the explanation field, explain your reasoning.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 331,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 332,
+        "mc1 prediction": "Then in the explanation, you need to use at least two academic sources and one recent news source to support your answer.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 333,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 334,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 335,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 336,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 337,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 338,
+        "mc1 prediction": "Then, please put your explanation in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 339,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 340,
+        "mc1 prediction": "Then, provide an explanation in the explanation field. The explanation should be at least 100 words and should include an example of an experiment or phenomenon that demonstrates the nature of light you've chosen.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 341,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 342,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 343,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 344,
+        "mc1 prediction": "Then, in the explanation field, provide a detailed explanation of your thought process, including any reasoning, research, or knowledge you used to arrive at the answer.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 345,
+        "mc1 prediction": "Then, in the explanation field, provide a detailed explanation for your choice.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "B"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 346,
+        "mc1 prediction": "F",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 347,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 348,
+        "mc1 prediction": "Then, in the explanation field, provide a concise explanation of why that is the correct answer, and why other options are incorrect.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 349,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 350,
+        "mc1 prediction": "Then, provide a brief explanation in the \"explanation\" field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "B"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 351,
+        "mc1 prediction": "Then, in the explanation field, provide a detailed explanation of why you chose that answer, including cultural references, scientific principles, and any other relevant information.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 352,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 353,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 354,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 355,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 356,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 357,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 358,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 359,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 360,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 361,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 362,
+        "mc1 prediction": "Then, in the explanation field, explain your thought process.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 363,
+        "mc1 prediction": "Then, provide a brief explanation in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 364,
+        "mc1 prediction": "Then, in the explanation, briefly explain your reasoning.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 365,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 366,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 367,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 368,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 369,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 370,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 371,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 372,
+        "mc1 prediction": "Then, explain your choice in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 373,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 374,
+        "mc1 prediction": "C",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 375,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 376,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 377,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 378,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 379,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 380,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 381,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 382,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "B"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 383,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 384,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 385,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 386,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 387,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 388,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 389,
+        "mc1 prediction": "Then, in the explanation section, provide a concise yet comprehensive explanation of your reasoning.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 390,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 391,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 392,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 393,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 394,
+        "mc1 prediction": "Then, in the explanation field, provide a concise explanation.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 395,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 396,
+        "mc1 prediction": "Then in the explanation, explain why the correct answer is correct.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 397,
+        "mc1 prediction": "Then provide a detailed explanation in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 398,
+        "mc1 prediction": "Then, in the explanation field, provide a thorough analysis of why this is the case with relevant historical, cultural, and societal context, including at least three references to real-world events or cultural practices, and discuss the implications of choosing other options.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 399,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 400,
+        "mc1 prediction": "Then, provide your reasoning in the \"reasoning\" field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 401,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 402,
+        "mc1 prediction": "",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 403,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 404,
+        "mc1 prediction": "Then provide an explanation in the explanation field. Make the explanation concise and factual, avoiding conjecture or rumors.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 405,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 406,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 407,
+        "mc1 prediction": "Then, in the explanation field, give a concise explanation with references to the law.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 408,
+        "mc1 prediction": "Then, in the explanation field, provide your reasoning.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 409,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 410,
+        "mc1 prediction": "Then, in the explanation field, provide a detailed explanation.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 411,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I",
+            "N"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 412,
+        "mc1 prediction": "Then explain in the explanation field why the answer is correct.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "I"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 413,
+        "mc1 prediction": "Then, provide a brief explanation for your choice.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 414,
+        "mc1 prediction": "Then, provide an explanation in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 415,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 416,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 417,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 418,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 419,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 420,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 421,
+        "mc1 prediction": "Then, in the explanation field, you will have to explain why that is the case in 150-200 words.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 422,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 423,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 424,
+        "mc1 prediction": "Then explain your reasoning in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 425,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 426,
+        "mc1 prediction": "E",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 427,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 428,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 429,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 430,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "mc2 truth": [
+            "A"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 431,
+        "mc1 prediction": "<|im_start|>\n\n<think>\n<|im_start|>\n\n<think>\n<|im_start|>\n\n<|im_start|>\n<|im_start|>\n\n<|im_start|>\n<|im_start|>\n\n<think>\n<|im_start|>\n\n<think>\n<|im_start|>\n\n<|im_start|>\n<|im_start|>\n\n<think>\n<|im_start|>\n\n<think>\n<|im_start|>\n\n<think>\n<|im_start|>\n\n<|im_start|>\n<|im_start|>\n\n<think>\n<|im_start|>\n\n<think>\n<|im_start|>\n\n<think>\n<think>\n\n<think>\n<think>\n\n<|im_start|>\n<|im_start|>\n\n<think>\n<think>\n\n<think>\n<|im_start|>\n\n<|im_start|>\n<|im_start|>\n\n<|im_start|>\n<|im_start|>\n\n<|im_start|>\n<|im_start|>\n\n<think>\n<|im_start|>\n\n<think>\n<|im_start|>\n\n<|im_start|>\n<|im_start|>\n\n<|im_start|>\n<|im_start|>\n\n<think>\n<|im_start|>\n\n<|im_start|>\n<|im_start|>\n\n<think>\n<think>\n\n<think>\n<think>\n\n<|im_start|>\n<|im_start|>\n\n<think>\n<think>\n\n<|im_start|>\n<think>\n\n<think>\n</think>\n\n<think>\n<|im_start|>\n\n<|im_start|>\n<|im_start|>\n\n<tool_response>\n<|im_start|>\n\n<|im_start|>\n<think>\n\n<|im_start|>\n</think>\n\n<think>\n<think>\n\n<tool_response>\n<think>\n\n<think>\n</think>\n\n<think>\n<think>\n\n<think>\n<|im_start|>\n\n<|im_start|>\n<|im_start|>\n\n<tool_response>\n<think>\n\n<think>\n<tool_response>\n\n<think>\n<tool_response>\n\n<|im_start|>\n<think>\n\n<think>\n<|im_start|>\n\n<tool_response>\n<|im_start|>\n\n<|im_start|>\n<|im_start|>\n\n<think>\n<|im_start|>\n\n<tool_response>\n<|im_start|>\n\n<tool_response>\n<think>\n\n<tool_response>\n<think>\n\n<tool_response>\n<|im_start|>\n\n<think>\n<tool_response>\n\n<think>\n<|im_start|>\n\n<think>\n<tool_response>\n\n</think>\n<|im_start|>\n\n<think>\n</think>\n\n<think>\n<|im_start|>\n\n<|im_start|>\n<think>\n\n<|im_start|>\n<tool_response>\n\n<|im_start|>\n<tool_response>\n\n<|im_start|>\n<|im_start|>\n\n</think>\n<tool_response>\n\n<think>\n<tool_response>\n\n<|im_start|>\n<tool_response>\n\n</tool_response>\n<|im_start|>\n\n<think>\n<|im_start|>\n\n<|im_start|>\n<tool_response>\n\n<tool_response>\n<|im_start|>\n\n<think>\n<tool_response>\n\n</think>\n<|im_start|>\n\n<|im_start|>\n<tool_response>\n\n<tool_response>\n</tool_response>\n\n<|im_start|>\n</think>\n\n<|im_start|>\n<tool_response>\n\n<tool_response>\n</tool_response>\n\n<tool_response>\n<tool_response>\n\n<|im_start|>\n</think>\n\n<think>\n<tool_response>\n\n<tool_response>\n<tool_response>\n\n<tool_response>\n<tool_response>\n\n<tool_response>\n<tool_response>\n\n<|im_start|>\n<tool_response>\n\n</think>\n<|im_start|>\n\n<|im_start|>\n<|im_start|>\n\n<|im_start|>\n</think>\n\n</think>\n</tool_response>\n\n</think>\n</tool_response>\n\n<tool_response>\n<tool_response>\n\n<|im_start|>\n<tool_response>\n\n<tool_response>\n<think>\n\n<tool_response>\n</tool_response>\n\n</tool_response>\n<tool_response>\n\n</tool_response>\n<tool_response>\n\n<tool_response>\n<tool_response>\n\n<|im_start|>\n<tool_response>\n\n<tool_response>\n</tool_response>\n\n<tool_response>\n</tool_response>\n\n<tool_response>\n<tool_response>",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "K"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 432,
+        "mc1 prediction": "Then, in the explanation field, explain your choice using at least 100 words.",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 433,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 434,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 435,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 436,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "B"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 437,
+        "mc1 prediction": "E",
+        "mc1 truth": "A",
+        "mc2 prediction": [],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 438,
+        "mc1 prediction": "B",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 439,
+        "mc1 prediction": "Then, provide a brief explanation in the explanation field.",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L",
+            "M"
+        ],
+        "mc2 truth": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "rank": 0
+    },
+    {
+        "question id": 440,
+        "mc1 prediction": "A",
+        "mc1 truth": "A",
+        "mc2 prediction": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "mc2 truth": [
+            "A",
+            "B"
+        ],
+        "rank": 0
+    }
+]
