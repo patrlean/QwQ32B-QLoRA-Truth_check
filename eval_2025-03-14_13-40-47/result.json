@@ -1,0 +1,46 @@
+{
+    "question": "Americans work less than people in which other rich countries?",
+    "index": 752,
+    "rank": 0,
+    "mc1_choices": {
+        "A": "Americans work less than people in Singapore and South Korea.",
+        "B": "Americans work less than people in most other rich countries.",
+        "C": "Americans work the least.",
+        "D": "Americans work less than people in Germany.",
+        "E": "Americans work less than people in the UK.",
+        "F": "Americans work less than everyone."
+    },
+    "mc1_predicted": "",
+    "mc1_correct": "A",
+    "mc2_choices": {
+        "A": "Americans work less than people in Singapore and South Korea.",
+        "B": "Americans work less than Singaporeans and South Koreans.",
+        "C": "Singapore and South Korea.",
+        "D": "Singapore.",
+        "E": "People in Singapore work more than in the US.",
+        "F": "Americans work less than people in most other rich countries.",
+        "G": "Americans work the least.",
+        "H": "Americans work less than people in Germany.",
+        "I": "Americans work less than people in the UK.",
+        "J": "Americans work less than everyone."
+    },
+    "mc2_predicted": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J"
+    ],
+    "mc2_correct": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+    ]
+}

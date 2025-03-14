@@ -31,6 +31,7 @@ def log_warning_rank0(msg, *args, **kwargs):
 
 # 仅在主进程 (rank 0) 配置日志文件和控制台输出
 if rank == 0:
+    
     # 生成基于当前时间的日志文件名
     log_filename = datetime.datetime.now().strftime("eval_%Y-%m-%d_%H-%M-%S.log")
 
@@ -242,13 +243,13 @@ def main(args):
                 "rank": rank
             })
 
-            with open(args.output_json, "w", encoding="utf-8") as f:
+            with open(os.path.join(args.output_path, "result.json"), "w", encoding="utf-8") as f:
                 json.dump(sample_result, f, ensure_ascii=False, indent=4)
 
-            with open("wrong_answer.json", "w", encoding="utf-8") as f:
+            with open(os.path.join(args.output_path,"wrong_answer.json"), "w", encoding="utf-8") as f:
                 json.dump(wrong_answers, f, ensure_ascii=False, indent=4)
 
-            with open("summary_results.json", "w", encoding="utf-8") as f:
+            with open(os.path.join(args.output_path,"summary_results.json"), "w", encoding="utf-8") as f:
                 json.dump(summary_results, f, ensure_ascii=False, indent=4)
 
     log_info_rank0(f"Rank {rank}: MC1 正确率: {correct_mc1}/{total_mc1} = {correct_mc1 / total_mc1:.4f}")
@@ -265,35 +266,37 @@ def main(args):
             final_results = []
             for res in gathered_results:
                 final_results.extend(res)
-            with open(args.output_json, "w", encoding="utf-8") as f:
+            with open(os.path.join(args.output_path, "result.json"), "w", encoding="utf-8") as f:
                 json.dump(final_results, f, ensure_ascii=False, indent=4)
 
             final_wrong_answers = []
             for res in gathered_wrong_answers:
                 final_wrong_answers.extend(res)
-            with open("wrong_answer.json", "w", encoding="utf-8") as f:
+            with open(os.path.join(args.output_path, "wrong_answer.json"), "w", encoding="utf-8") as f:
                 json.dump(final_wrong_answers, f, ensure_ascii=False, indent=4)
 
             final_summary_results = []
             for res in gathered_summary_results:
                 final_summary_results.extend(res)
-            with open("summary_results.json", "w", encoding="utf-8") as f:
+            with open(os.path.join(args.output_path, "summary_results.json"), "w", encoding="utf-8") as f:
                 json.dump(final_summary_results, f, ensure_ascii=False, indent=4)
     else:
-        with open(args.output_json, "w", encoding="utf-8") as f:
+        with open(os.path.join(args.output_path, "result.json"), "w", encoding="utf-8") as f:
             json.dump(output_results, f, ensure_ascii=False, indent=4)
-        with open("wrong_answer.json", "w", encoding="utf-8") as f:
+        with open(os.path.join(args.output_path, "wrong_answer.json"), "w", encoding="utf-8") as f:
             json.dump(wrong_answers, f, ensure_ascii=False, indent=4)
-        with open("summary_results.json", "w", encoding="utf-8") as f:
+        with open(os.path.join(args.output_path, "summary_results.json"), "w", encoding="utf-8") as f:
             json.dump(summary_results, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="在 TruthfulQA 数据集上评估模型")
     parser.add_argument("-m", "--multi_gpu", action="store_true")
     parser.add_argument("-t", "--max_new_tokens", type=int, default=32768)
-    parser.add_argument("--output_json", type=str, default="results.json")
-    parser.add_argument("--start_index", type=int, default=0, help="从数据集中的指定索引开始评估")
+    parser.add_argument("--output_path", type=str, default = datetime.datetime.now().strftime("eval_%Y-%m-%d_%H-%M-%S"))
+    parser.add_argument("-s", "--start_index", type=int, default=0, help="从数据集中的指定索引开始评估")
     parser.add_argument("-r", "--local_rank", type=int, default=0)
     args = parser.parse_args()
+
+    os.makedirs(args.output_path, exist_ok=True)
 
     main(args)
