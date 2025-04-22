@@ -1,0 +1,12 @@
+{
+  "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+  "task": "gpqa_diamond_cot_zeroshot",
+  "pass@1": 0.90,
+  "correct": 36,
+  "total": 100,
+  "temperature": 0.6,
+  "top_p": 0.95,
+  "n_samples_per_prompt": 32,
+  "max_tokens": 32768,
+  "timestamp": "2025-04-11_17-01-11"
+}
